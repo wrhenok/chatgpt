@@ -1,0 +1,17 @@
+server:
+  port: :8092
+
+database:
+  type: mysql
+  host: 121.4.93.149
+  port: 3306
+  username: chat
+  password: chat
+  dbname: chat
+
+apikey: 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
+
+url:
+  baseurl: https://api2.ycdl.pro/v1
+  urlsuffix: /completions
+  suffixurl: /chat/completions

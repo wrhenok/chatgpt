@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abbbe882-8141-4493-bf47-ef5a7b47940e" name="Changes" comment="0.1.13 some detail">
+      <change afterPath="$PROJECT_DIR$/src/config/proxy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/streamController.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/picture/one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/picture/three.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/picture/two.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/chatController.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/chatController.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/GetAnswer.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/GetAnswer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/GetResp.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/GetResp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/stream.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/stream.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTTP Request" />
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../goroot/go1.20" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2LOx6hjHFQ30VA8UHtNd1CEH8WP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "false",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "C:/Users/m",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.splitter.proportion": "0.32258064",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\environments\golang\CodeSpaceGO\chatgpt3\templates\picture" />
+      <recent name="D:\environments\golang\CodeSpaceGO\chatgpt3\templates" />
+      <recent name="D:\environments\golang\CodeSpaceGO\chatgpt3\templates\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\environments\golang\CodeSpaceGO\chatgpt3\templates\picture" />
+      <recent name="D:\environments\golang\CodeSpaceGO\chatgpt3\templates\image" />
+      <recent name="D:\environments\golang\CodeSpaceGO\chatgpt3\templates" />
+      <recent name="D:\environments\golang\CodeSpaceGO\chatgpt3\templates\css" />
+      <recent name="D:\environments\golang\CodeSpaceGO\chatgpt3\src\Util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build chatgpt3">
+    <configuration name="go build chatgpt3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="chatGPT3" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="chatgpt3" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build chatgpt3/go/src" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="chatGPT3" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="chatgpt3/go/src" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/go/src/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build chatgpt3" />
+        <item itemvalue="Go Build.go build chatgpt3/go/src" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="0.1.1 upgrade gpt-3.5-turbo" />
+    <MESSAGE value="0.1.2 some details" />
+    <MESSAGE value="0.1.3 some details" />
+    <MESSAGE value="0.1.4 chatgpt3.5, GetResp.go&#10;Server: &quot;/up&quot;" />
+    <MESSAGE value="0.1.5 add select ," />
+    <MESSAGE value="0.1.5 update apikey" />
+    <MESSAGE value="0.1.5 update dockerfile" />
+    <MESSAGE value="0.1.6 update" />
+    <MESSAGE value="0.1.7 配置文件" />
+    <MESSAGE value="0.1.7 some detail" />
+    <MESSAGE value="0.1.7 streaming response" />
+    <MESSAGE value="0.1.8 streaming response" />
+    <MESSAGE value="0.1.8 streaming" />
+    <MESSAGE value="0.1.8 streaming page" />
+    <MESSAGE value="0.1.9 streaming page" />
+    <MESSAGE value="0.1.9 nochange" />
+    <MESSAGE value="nochange" />
+    <MESSAGE value="streaming" />
+    <MESSAGE value="1.1.10 解决输出页面渲染问题" />
+    <MESSAGE value="1.1.11 update page, component value." />
+    <MESSAGE value="readme" />
+    <MESSAGE value="some updates" />
+    <MESSAGE value="0.1.12 update pages" />
+    <MESSAGE value="0.1.12 update" />
+    <MESSAGE value="0.1.13 some detail" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1.13 some detail" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/controller/chatController.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/service/GetAnswer.go</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../gomod/pkg/mod/github.com/sashabaranov/go-openai@v1.4.2/completion.go</url>
+          <line>111</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../gomod/pkg/mod/github.com/sashabaranov/go-openai@v1.4.2/completion.go</url>
+          <line>116</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
